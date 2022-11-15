@@ -1,0 +1,316 @@
+
+body{
+    margin: auto;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(252, 0, 210) ;
+    text-shadow: 0 0 9px rgba(252, 0, 210, 0.87);
+}
+
+section
+{
+    text-align: center;
+}
+
+
+div{
+    border: solid 2px rgba(252, 0, 210, 0.979);
+    width: 200px;
+    height: 220px;
+    background-color: beige;
+    display: inline-block;
+    margin: 4px;
+    border-radius: 5px;
+    box-shadow: 0 0 7px rgba(255, 0, 212, 0.76);
+
+}
+
+header{
+    color: rgba(255, 255, 255, 0.952);
+    text-align: center;
+    max-height: 300px;
+  
+}
+
+
+nav{
+    text-align: center;
+}
+button.aq{
+    background-color: rgba(0, 0, 0, 0.89); 
+    padding: 5px;
+    color: white;
+    border: solid 2px rgba(255, 0, 212, 0.76);
+    border-radius: 5px;
+    box-shadow: 0 0 7px rgba(255, 0, 212, 0.76);
+    margin: 5px;
+    transition-duration: .1s;
+
+}
+button.aq:hover{
+    box-sizing: 1.2em;
+    font-size: 1.2em;
+}
+
+
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(255, 0, 212, 0.76);
+    text-shadow: 0 0 9px rgba(252, 0, 210, 0.87);
+    transition-duration: .5s;
+
+}
+a:hover{
+    margin: 0;
+   box-shadow: 0 0 20px rgb(252, 0, 210);
+    font-size: 1.3em;
+}
+
+
+
+img#ttl
+{
+    border: solid 2px rgba(252, 0, 210, 0.979);
+    border-radius: 5px;
+    box-shadow: 0 0 7px rgba(255, 0, 212, 0.76);
+
+}
+
+footer{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+p#do{
+    
+    margin-top: 5px;
+    font-style: italic;
+  }
+
+  div#lelastar{
+
+      background-image: url(../starss/lelastar.jpg);
+      background-repeat: no-repeat ;
+      background-size: cover;
+      
+  }
+  div#veronica{
+      
+    background-image: url(../starss/veronica.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+div#cristal{
+      
+    background-image: url(../starss/cristallust.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#kendra{
+      
+    background-image: url(../starss/kendralust.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#lisa{
+      
+    background-image: url(../starss/lisaann.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#rose{
+      
+    background-image: url(../starss/rosemonroe.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#ryanconer{
+      
+    background-image: url(../starss/ryanconer.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#ryansmiles{
+      
+    background-image: url(../starss/ryansmiles.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#rachelrox{
+      
+    background-image: url(../starss/rachelrox.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#bridgetb{
+      
+    background-image: url(../starss/bridgetb.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#angelawhite{
+      
+    background-image: url(../starss/angelawhite.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#ivylebelle{
+      
+    background-image: url(../starss/ivilebelle.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#madisonivi{
+      
+    background-image: url(../starss/madisonivy.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#evanoti{
+      
+    background-image: url(../starss/evanoti.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#nicoleaniston{
+      
+    background-image: url(../starss/nicoleaniston.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#lunastar{
+      
+    background-image: url(../starss/luna.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#ryleinixon{
+      
+    background-image: url(../starss/ryleinixon.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+div#miakhalifa{
+      
+    background-image: url(../starss/miah.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#arianamarie{
+      
+    background-image: url(../starss/arianemarie.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#peta{
+      
+    background-image: url(../starss/peta.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#ava{
+      
+    background-image: url(../starss/avaadams.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#sirena{
+      
+    background-image: url(../starss/antonela.jpeg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#moriah{
+      
+    background-image: url(../starss/moriah.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#halle{
+      
+    background-image: url(../starss/halle.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#blondie{
+      
+    background-image: url(../starss/blondie.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#yum{
+      
+    background-image: url(../starss/yum.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+div#miss{
+      
+    background-image: url(../starss/miss.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    
+}
+
+
+
+
+  p
+  {
+      color: black;
+      margin-top: 95%;
+      background-color: rgba(255, 0, 212, 0.76);
+  }
